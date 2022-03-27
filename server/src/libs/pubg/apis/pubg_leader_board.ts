@@ -1,0 +1,1 @@
+//https://api.pubg.com/shards/$platform-region/leaderboards/$seasonId/$gameMode

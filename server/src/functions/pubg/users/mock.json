@@ -1,0 +1,9 @@
+{
+  "pathParameters": {
+    "platform": "kakao",
+    "name": "my_user1234"
+  },
+  "queryStringParameters": {
+    "refresh": "true"
+  }
+}

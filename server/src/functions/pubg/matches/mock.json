@@ -1,0 +1,8 @@
+{
+  "pathParameters": {
+    "platform": "kakao"
+  },
+  "queryStringParameters": {
+    "matchIds": "{matchId1}, {matchId2}"
+  }
+}

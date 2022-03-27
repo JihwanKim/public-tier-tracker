@@ -1,0 +1,9 @@
+{
+  "queryStringParameters": {
+    "sort": "1646059963162"
+  },
+  "pathParameters": {
+    "platform": "kakao",
+    "name": "{required:user_name}"
+  }
+}

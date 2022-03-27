@@ -1,0 +1,10 @@
+{
+  "queryStringParameters": {
+    "rank": "true"
+  },
+  "pathParameters": {
+    "platform": "kakao",
+    "name": "my_user1234",
+    "season": "division.bro.official.pc-2018-15"
+  }
+}
