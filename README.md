@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihwanKim%2Fpublic-tier-tracker&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Tier-Tracker
 
 게임 전적검색 및 유저의 티어와 스탯 등의 기록을 활용하는 서비스를 만드려고 했습니다.
